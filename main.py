@@ -39,7 +39,7 @@ def index():
     html_content = """
     <html>
         <head>
-            <title>Some HTML in here</title>
+            <title>kadai9</title>
         </head>
         <body>
             <h1>Look ma! HTML!</h1>
