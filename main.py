@@ -39,11 +39,12 @@ def index():
     html_content = """
     <html>
         <head>
-            <title>https://render-fastapi-ywxx.onrender.com/omikuji</title>
+            <title>Some HTML in here</title>
         </head>
         <body>
             <h1>Look ma! HTML!</h1>
             <h1>おみくじを引こう！</h1>
+            <h2>https://render-fastapi-ywxx.onrender.com/omikuji</h2>
         </body>
     </html>
     """
